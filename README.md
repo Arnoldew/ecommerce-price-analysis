@@ -36,3 +36,7 @@ The dataset contains product information including:
 - Lower priced products tend to receive more reviews.
 
 ## Repository Structure
+- data/
+- notebook/
+- scraper/
+- visuals/
