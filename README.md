@@ -1,6 +1,7 @@
 # E-Commerce Price Intelligence
 
-Collecting product data through web scraping and analyzing pricing patterns across categories — built as a complete data collection-to-insight pipeline.
+Collecting product data through web scraping and analyzing pricing patterns across
+categories — built as a complete data collection-to-insight pipeline.
 
 ---
 
@@ -12,7 +13,7 @@ Data was scraped from [webscraper.io test e-commerce site](https://webscraper.io
 |-----------|--------|
 | Source | webscraper.io (practice e-commerce site) |
 | Categories scraped | Laptops, Tablets, Phones |
-| Total products | [FILL: e.g. 319 products] |
+| Total products | 60 products |
 | Fields collected | product_name, price, description, reviews, category |
 | Scraping tool | Python · BeautifulSoup · Requests |
 
@@ -33,27 +34,33 @@ This project covers the full analyst workflow — from raw HTML to business insi
 
 **1. Scraping** — Custom script targets product listings across 3 categories and exports raw data to CSV.
 
-**2. Cleaning** — Removed duplicates, standardized price format (stripped `$` symbol, cast to float), handled missing review counts.
+**2. Cleaning** — Removed duplicates, standardized price format (stripped `$` symbol, cast to float), handled missing values.
 
-**3. Analysis** — Price distribution per category, review volume vs price relationship, category-level comparison.
+**3. Analysis** — Price distribution per category, price range comparison, category-level pricing patterns.
 
 ---
 
 ## Key Findings
 
-**Laptops are the highest-priced category** — average price of $[FILL] compared to $[FILL] for Phones and $[FILL] for Tablets.
+**Laptops are the highest-priced category by a wide margin.** Average laptop price
+is $900.12 — more than double phones ($400.66) and nearly 4x tablets ($232.04).
 
-**Price and reviews have an inverse relationship.** Products priced below $[FILL] collect significantly more reviews than premium ones. This is consistent across all three categories — cheaper products move faster and generate more user feedback.
+**The overall price range is $24.99 to $1,799.00 with a median of $529.49.**
+This wide spread is driven almost entirely by the laptop category, which pulls the
+median upward.
 
-**Most products cluster in the mid-range.** The $[FILL]–$[FILL] price band has the highest product count across all categories, with few true budget or premium outliers.
+**Tablets are the most affordable category.** At an average of $232.04, they sit
+well below the dataset median — making them the entry-level segment in this market.
+
+**Price distribution is right-skewed.** Most products cluster in the $24.99–$529
+range, with a long tail of premium laptops pushing toward $1,799.
 
 ---
 
 ## Visuals
 
 ![Price Distribution by Category](visuals/price_distribution.png)
-![Price vs Reviews](visuals/price_vs_reviews.png)
-![Category Comparison](visuals/category_comparison.png)
+![Category Price Comparison](visuals/category_comparison.png)
 
 ---
 
@@ -72,7 +79,6 @@ ecommerce-price-analysis/
 │
 ├── visuals/
 │   ├── price_distribution.png
-│   ├── price_vs_reviews.png
 │   └── category_comparison.png
 │
 └── README.md
