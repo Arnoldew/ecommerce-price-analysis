@@ -1,0 +1,61 @@
+product_name,price,description,reviews,category
+Packard 255 G2,416.99,"15.6"", AMD E2-3800 1.3GHz, 4GB, 500GB, Windows 8.1",0,laptops
+Aspire E1-510,306.99,"15.6"", Pentium N3520 2.16GHz, 4GB, 500GB, Linux",0,laptops
+ThinkPad T540p,1178.99,"15.6"", Core i5-4200M, 4GB, 500GB, Win7 Pro 64bit",0,laptops
+ProBook,739.99,"14"", Core i5 2.6GHz, 4GB, 500GB, Win7 Pro 64bit",0,laptops
+ThinkPad X240,1311.99,"12.5"", Core i5-4300U, 8GB, 240GB SSD, Win7 Pro 64bit",0,laptops
+Aspire E1-572G,581.99,"15.6"", Core i5-4200U, 8GB, 1TB, Radeon R7 M265, Windows 8.1",0,laptops
+ThinkPad Yoga,1033.99,"12.5"" Touch, Core i3-4010U, 4GB, 500GB + 16GB SSD Cache,",0,laptops
+Pavilion,609.99,"15.6"", Core i5-4200U, 6GB, 750GB, Windows 8.1",0,laptops
+Inspiron 15,745.99,"Moon Silver, 15.6"", Core i7-4510U, 8GB, 1TB, Radeon HD R7 M265 2GB,",0,laptops
+Dell XPS 13,1281.99,"13.3"" Touch, Core i5-4210U, 8GB, 128GB SSD, Windows 8.1",0,laptops
+ThinkPad X230,1244.99,"12.5"", Core i5 2.6GHz, 8GB, 180GB SSD, Win7 Pro 64bit",0,laptops
+HP 250 G3,520.99,"15.6"", Core i5-4210U, 4GB, 500GB, Windows 8.1",0,laptops
+ThinkPad Yoga,1223.99,"12.5"" Touch, Core i5 4200U, 8GB, 500GB + 16GB SSD Cache, Windows",0,laptops
+HP 350 G1,577.99,"15.6"", Core i5-4200U, 4GB, 750GB, Radeon HD8670M 2GB, Windows",0,laptops
+Asus VivoBook...,399.0,"Asus VivoBook Max X541NA-GQ041 Black Chocolate, 15.6"" HD, Pentium N4200 1.1GHz, 4GB, 500GB, Windows 10 Home",0,laptops
+Dell Vostro 15,488.78,"Dell Vostro 15 (3568) Black, 15.6"" FHD, Core i5-7200U, 4GB, 128GB SSD, Radeon R5 M420 2GB, Linux",0,laptops
+Acer Spin 5,564.98,"Acer Spin 5 SP513-51 Black, 13.3"" FHD Touch, Core i3-7100U, 4GB, 128GB SSD, Windows 10 Home",0,laptops
+Acer Aspire A5...,679.0,"Acer Aspire A515-51-5654, Black, 15.6"", FHD, Core i5-8250U, 8GB DDR4, 256GB SSD, Windows 10 Home, ENG",0,laptops
+Dell Inspiron...,679.0,"Dell Inspiron 15 (5567) Fog Gray, 15.6"" FHD, Core i5-7200U, 8GB, 1TB, Radeon R7 M445 4GB, Linux",0,laptops
+Asus VivoBook...,729.0,"Asus VivoBook S14 (S406UA-BV041T) Starry Grey, 14"", Core i5-8250U, 8GB, 256GB SSD, Windows 10 Home, Eng kbd",0,laptops
+Asus ROG STRIX...,799.0,"Asus ROG STRIX GL553VD-DM256, 15.6"" FHD, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, No OS",0,laptops
+Acer Nitro 5 A...,809.0,"Acer Nitro 5 AN515-51, 15.6"" FHD IPS, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, Windows 10 Home",0,laptops
+Asus ROG STRIX...,899.0,"Asus ROG STRIX GL553VD-DM256, 15.6"" FHD, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, No OS + Windows 10 Home",0,laptops
+Lenovo ThinkPa...,999.0,"Lenovo ThinkPad L570, 15.6"" FHD, Core i7-7500U, 8GB, 256GB SSD, Windows 10 Pro",0,laptops
+Lenovo Legion...,1149.0,"Lenovo Legion Y520-15IKBM, 15.6"" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 1TB, GeForce GTX 1060 Max-Q 6GB, DOS",0,laptops
+Lenovo Legion...,1399.0,"Lenovo Legion Y720, 15.6"" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 2TB HDD, GeForce GTX 1060 6GB, DOS, RGB backlit keyboard",0,laptops
+Asus ROG Strix...,1769.0,"Asus ROG Strix GL702ZC-GC154T, 17.3"" FHD, Ryzen 7 1700, 16GB, 256GB + 1TB HDD, Radeon RX 580 4GB, Windows 10 Home",0,laptops
+Asus ROG Strix...,1769.0,"Asus ROG Strix GL702ZC-GC209T, 17.3"" FHD IPS, Ryzen 7 1700, 16GB, 256GB SSD + 1TB HDD, Radeon RX 580 4GB, Windows 10 Home",0,laptops
+Asus ROG Strix...,1799.0,"Asus ROG Strix SCAR Edition GL503VM-ED115T, 15.6"" FHD 120Hz, Core i7-7700HQ, 16GB, 256GB SSD + 1TB SSHD, GeForce GTX 1060 6GB, Windows 10 Home",0,laptops
+Asus VivoBook...,295.99,"Asus VivoBook X441NA-GA190 Chocolate Black, 14"", Celeron N3450, 4GB, 128GB SSD, Endless OS, ENG kbd",0,laptops
+Lenovo IdeaTab,69.99,"7"" screen, Android",0,tablets
+Acer Iconia,96.99,"7"" screen, Android, 16GB",0,tablets
+Asus MeMO Pad,102.99,"7"" screen, Android, 8GB",0,tablets
+Amazon Kindle,103.99,"6"" screen, wifi",0,tablets
+iPad Mini Reti...,537.99,"Wi-Fi + Cellular, 32GB, Silver",0,tablets
+IdeaTab A3500L,88.99,"Black, 7"" IPS, Quad-Core 1.2GHz, 8GB, Android 4.2",0,tablets
+Galaxy Tab,251.99,"16GB, White",0,tablets
+IdeaTab A3500-...,148.99,"Blue, 7"" IPS, Quad-Core 1.3GHz, 8GB, 3G, Android 4.2",0,tablets
+Galaxy Tab 3,97.99,"7"", 8GB, Wi-Fi, Android 4.2, White",0,tablets
+Galaxy Note,489.99,"12.2"", 32GB, WiFi, Android 4.4, White",0,tablets
+MeMO Pad 7,130.99,"White, 7"", Atom 1.2GHz, 8GB, Android 4.4",0,tablets
+Galaxy Tab 4,233.99,"LTE (SM-T235), Quad-Core 1.2GHz, 8GB, Black",0,tablets
+Galaxy Tab 3,107.99,"7"", 8GB, Wi-Fi, Android 4.2, Yellow",0,tablets
+Memo Pad HD 7,101.99,"IPS, Dual-Core 1.2GHz, 8GB, Android 4.3",0,tablets
+Galaxy Note 10...,587.99,"10.1"", 32GB, Black",0,tablets
+MeMo PAD FHD 1...,320.99,"White, 10.1"" IPS, 1.6GHz, 2GB, 16GB, Android 4.2",0,tablets
+IdeaTab S5000,172.99,"Silver, 7"" IPS, Quad-Core 1.2Ghz, 16GB, 3G, Android 4.2",0,tablets
+Iconia B1-730H...,99.99,"Black, 7"", 1.6GHz Dual-Core, 8GB, Android 4.4",0,tablets
+IdeaTab A8-50,121.99,"Blue, 8"" IPS, Quad-Core 1.3GHz, 16GB, Android 4.2",0,tablets
+Galaxy Note,399.99,"10.1"", 3G, Android 4.0, Garnet Red",0,tablets
+Apple iPad Air,603.99,"Wi-Fi, 64GB, Silver",0,tablets
+Nokia 123,24.99,7 day battery,0,phones
+LG Optimus,57.99,"3.2"" screen",0,phones
+Samsung Galaxy,93.99,5 mpx. Android 5.0,0,phones
+Nokia X,109.99,"Andoid, Jolla dualboot",0,phones
+Sony Xperia,118.99,"GPS, waterproof",0,phones
+Ubuntu Edge,499.99,Sapphire glass,0,phones
+Iphone,899.99,White,0,phones
+Iphone,899.99,Silver,0,phones
+Iphone,899.99,Black,0,phones
