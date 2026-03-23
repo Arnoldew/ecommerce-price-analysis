@@ -59,8 +59,9 @@ range, with a long tail of premium laptops pushing toward $1,799.
 
 ## Visuals
 
-![Price Distribution by Category](visuals/price_distribution.png)
-![Category Price Comparison](visuals/category_comparison.png)
+![Distribution of Product Prices](visuals/price_distribution.png)
+![Price Distribution by Category](visuals/category_boxplot.png)
+![Price vs Reviews](visuals/price_vs_reviews.png)
 
 ---
 
